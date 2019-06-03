@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Amplifier_Audio_Extra)(type Legacy)(uri ${KIPRJMOD}/library/Amplifier_Audio_Extra.lib)(options "")(descr ""))
+  (lib (name pam8301_breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/pam8301_breakout-rescue.lib)(options "")(descr ""))
+)
