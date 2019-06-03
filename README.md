@@ -1,9 +1,9 @@
 # PAM8301 Breakout Board
 
-This is a simple breakout board for the PAM8301 Class-D Mono Audio Amplifier.
+This is a  circuit board for the PAM8301 Class-D Mono Audio Amplifier.
 
-![](./img/front.png)
+![](./img/1.png)
 
-![](./img/back.png)
+![](./img/2.png)
 
 ![](./img/sideways.png)
